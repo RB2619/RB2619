@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced SQL, data visualization tools (like Power BI/Tableau), Statistics, Machine learning, Regression Analysis and Python for data analysis.
 - 💞️ I’m looking to collaborate on projects involving data cleaning, exploratory analysis, and building dashboards or reports.
 - 📫 How to reach me: Email: rbala2664@gmail.com/ LinkedIn: www.linkedin.com/in/renu-bala1926
-  - 😄 Pronouns: Her
+- 😄 Pronouns: Her
 - ⚡ Fun fact:  I love discovering patterns in data and bringing them to life through interactive dashboards.
 
 <!---
